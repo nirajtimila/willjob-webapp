@@ -11,3 +11,15 @@ NodeJS, ReactJS, MySQL, VScode, deployed in Heruko
 
 <h3>login page</h3>
 <img src ="img/login.png">
+
+<h3> Register </h3>
+
+<img scr="img/register.png">
+
+<h3> Profile </h3>
+
+<img scr="img/profile.png">
+
+<h3> Post Job </h3>
+
+<img scr="img/job posted.png">
