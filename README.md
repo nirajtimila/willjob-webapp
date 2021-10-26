@@ -26,8 +26,8 @@ NodeJS, ReactJS, MySQL, VScode, deployed in Heruko
 
 <h3> Delete user </h3>
 
-<img scr="img/delete user.png">
+<img src="img/delete user.png">
 
 <h3> Job approved </h3>
 
-<img scr="img/job approved.png">
+<img src="img/job approved.png">
