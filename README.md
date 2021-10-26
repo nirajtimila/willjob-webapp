@@ -23,3 +23,11 @@ NodeJS, ReactJS, MySQL, VScode, deployed in Heruko
 <h3> Post Job </h3>
 
 <img src="img/job posted.png">
+
+<h3> Delete user </h3>
+
+<img scr="img/delete user.png">
+
+<h3> Job approved </h3>
+
+<img scr="img/job approved.png">
